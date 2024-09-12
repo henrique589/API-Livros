@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "título": "O Senhor dos Anéis - A Sociedade do Anel",
+        "autor": "J.R.R Tolkien"
+    },
+    {
+        "id": 2,
+        "título": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling"
+    },
+    {
+        "id": 3,
+        "título": "Hábitos Atômicos",
+        "autor": "James"
+    },
+    {
+        "id": 4,
+        "título": "1984",
+        "autor": "George Orwell"
+    },
+    {
+        "id": 5,
+        "título": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry"
+    },
+    {
+        "id": 6,
+        "título": "O Alquimista",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 7,
+        "título": "Moby Dick",
+        "autor": "Herman Melville"
+    },
+    {
+        "id": 8,
+        "título": "Orgulho e Preconceito",
+        "autor": "Jane Austen"
+    },
+    {
+        "id": 9,
+        "título": "O Código Da Vinci",
+        "autor": "Dan Brown"
+    },
+    {
+        "id": 10,
+        "título": "A Guerra dos Tronos",
+        "autor": "George R.R. Martin"
+    },
+    {
+        "id": 11,
+        "título": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak"
+    },
+    {
+        "id": 12,
+        "título": "O Diário de Anne Frank",
+        "autor": "Anne Frank"
+    },
+    {
+        "id": 13,
+        "título": "Os Miseráveis",
+        "autor": "Victor Hugo"
+    },
+    {
+        "id": 14,
+        "título": "Dom Quixote",
+        "autor": "Miguel de Cervantes"
+    },
+    {
+        "id": 15,
+        "título": "Cem Anos de Solidão",
+        "autor": "Gabriel García Márquez"
+    },
+    {
+        "id": 16,
+        "título": "O Morro dos Ventos Uivantes",
+        "autor": "Emily Brontë"
+    },
+    {
+        "id": 17,
+        "título": "O Apanhador no Campo de Centeio",
+        "autor": "J.D. Salinger"
+    },
+    {
+        "id": 18,
+        "título": "Fahrenheit 451",
+        "autor": "Ray Bradbury"
+    },
+    {
+        "id": 19,
+        "título": "A Revolução dos Bichos",
+        "autor": "George Orwell"
+    },
+    {
+        "id": 20,
+        "título": "O Hobbit",
+        "autor": "J.R.R Tolkien"
+    },
+    {
+        "id": 21,
+        "título": "A Cabana",
+        "autor": "William P. Young"
+    },
+    {
+        "id": 22,
+        "título": "O Silmarillion",
+        "autor": "J.R.R Tolkien"
+    },
+    {
+        "id": 23,
+        "título": "A Arte da Guerra",
+        "autor": "Sun Tzu"
+    },
+    {
+        "id": 24,
+        "título": "O Nome do Vento",
+        "autor": "Patrick Rothfuss"
+    },
+    {
+        "id": 25,
+        "título": "A Metamorfose",
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 26,
+        "título": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 27,
+        "título": "Crime e Castigo",
+        "autor": "Fyodor Dostoevsky"
+    },
+    {
+        "id": 28,
+        "título": "O Velho e o Mar",
+        "autor": "Ernest Hemingway"
+    },
+    {
+        "id": 29,
+        "título": "A Divina Comédia",
+        "autor": "Dante Alighieri"
+    },
+    {
+        "id": 30,
+        "título": "O Conde de Monte Cristo",
+        "autor": "Alexandre Dumas"
+    }
+]
