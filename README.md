@@ -34,12 +34,12 @@ cd API-Livros
 
 2. Criar o banco de dados
 ```bash
-[python src/database.py](.src/databse.py)
+python [src/database.py](.src/databse.py)
 ```
 
 3. Executar o Servidor Flask
 ```bash
-[python src/app.py](.src/app.py)
+python [src/app.py](.src/app.py)
 ```
 &nbsp;
-O script [manage.py](.manage.py) foi criado para automatizar o processo de execução. Existe um guia no arquivo explicando como executar detalhadamente.
+O script [manage.py](manage.py) foi criado para automatizar o processo de execução. Existe um guia no arquivo explicando como executar detalhadamente.
